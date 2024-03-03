@@ -6,5 +6,6 @@ Sai Gon University
 - GPA: 3.0/4
 # Project
 - Online Store website
+https://github.com/Doan-Toan/RSSReader
 - Fast food restaurant management
 - Staff management
